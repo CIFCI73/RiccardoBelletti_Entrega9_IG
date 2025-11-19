@@ -1,6 +1,6 @@
 # RiccardoBelletti_Entrega9_IG
 
-[Codigo de sandbox]([https://thebookofshaders.com](https://codesandbox.io/p/sandbox/entrega-ig-s9-p94vp8))
+[Codigo de sandbox](https://codesandbox.io/p/sandbox/entrega-ig-s9-p94vp8)
 
 Para esta entrega he trabajado en la integración de shaders dentro de mi sistema planetario en Three.js.
 Decidí elegir la alternativa que consiste en añadir shaders personalizados y modificar funciones ya existentes para mejorar el aspecto general sin cambiar la estructura del sistema.
